@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.slider{
+    text-align: center; 
+}
+.main{
+    overflow: hidden;
+    width: 1000px;  
+    height: 700px; 
+    margin: auto; 
+}
+.main img{
+    width: 1000px;  
+    height: 700px; 
+    transition: all .4s;   
+} 
+.main{ 
+    display: flex;
+}
+.bullets{
+    margin-top: 50px; 
+    text-align: center;
+}
+
+.main{  
+    position: relative;
+}
+
+
